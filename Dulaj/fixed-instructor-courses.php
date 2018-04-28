@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<!-- Mirrored from learnplus.frontendmatter.com/fixed-instructor-courses.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Apr 2018 16:12:59 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Instructor - Manage courses - Fixed layout</title>
+
+    <!-- Prevent the demo from appearing in search engines (REMOVE THIS) -->
+    <meta name="robots" content="noindex">
+
+    <!-- Simplebar -->
+    <link type="text/css" href="assets/vendor/simplebar.css" rel="stylesheet">
+
+    <!-- Material Design Icons  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Roboto Web Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
+
+    <!-- MDK -->
+    <link type="text/css" href="assets/vendor/material-design-kit.css" rel="stylesheet">
+
+    <!-- Sidebar Collapse -->
+    <link type="text/css" href="assets/vendor/sidebar-collapse.min.css" rel="stylesheet">
+
+    <!-- App CSS -->
+    <link type="text/css" href="assets/css/style.css" rel="stylesheet">
+
+    <!-- <link href="new1.html"> -->
+
+   
+
+
+
+<!-- <iframe src="lecturer-dashboard.html" seamless></iframe> -->
+<!-- <div data-include="lecturer-dashboard.html"></div> -->
+<!-- </head>
+<head>
+  <link rel="import" href="/path/to/imports/lecturer-dashboard.html">
+</head> -->
+
+  
+</head>
+
+
+    <!-- jQuery -->
+    <script src="assets/vendor/jquery.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="assets/vendor/popper.min.js"></script>
+    <script src="assets/vendor/bootstrap.min.js"></script>
+
+    <!-- Simplebar -->
+    <!-- Used for adding a custom scrollbar to the drawer -->
+    <script src="assets/vendor/simplebar.js"></script>
+
+    <!-- MDK -->
+    <script src="assets/vendor/dom-factory.js"></script>
+    <script src="assets/vendor/material-design-kit.js"></script>
+
+    <!-- Sidebar Collapse -->
+    <script src="assets/vendor/sidebar-collapse.js"></script>
+
+    <!-- App JS -->
+    <script src="assets/js/main.js"></script>
+
+
+<body>
+fasfasf
+
+ <?php require "new1.php"; ?>
+</body>
+
+
+<!-- Mirrored from learnplus.frontendmatter.com/fixed-instructor-courses.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 24 Apr 2018 16:12:59 GMT -->
+</html>
